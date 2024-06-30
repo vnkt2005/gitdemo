@@ -11,3 +11,7 @@
   $git commit -m "my first commit"
   $git push origin main
 ```
+
+```sh
+  $git config --global credential.helper store
+```
