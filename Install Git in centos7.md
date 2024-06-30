@@ -6,4 +6,7 @@
   $git config --global user.email "you@example.com"
   $git config --list
   $git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  $git status
+  $git add <your-filename>
+  $
 ```
