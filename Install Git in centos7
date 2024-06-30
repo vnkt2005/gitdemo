@@ -1,3 +1,4 @@
 # Install Git in Centos7
 ```sh
+  $sudo yum install git
 ```
