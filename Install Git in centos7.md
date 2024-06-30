@@ -5,4 +5,5 @@
   $git config --global user.name "Your Name"
   $git config --global user.email "you@example.com"
   $git config --list
+  $git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
