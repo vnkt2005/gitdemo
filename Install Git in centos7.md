@@ -8,5 +8,5 @@
   $git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
   $git status
   $git add <your-filename>
-  $
+  $git commit -m "my first commit"
 ```
