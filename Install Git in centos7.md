@@ -9,4 +9,5 @@
   $git status
   $git add <your-filename>
   $git commit -m "my first commit"
+  $git push origin main
 ```
